@@ -32,7 +32,7 @@ You just include a single element in your site and keep the configuration in Mid
   **In case you use Haml:**
 
   ```haml
-  # Application Insights tracking
+  -# Application Insights tracking
   = application_insights_tag
   ```
 
